@@ -41,3 +41,4 @@ def run():
     print(model_based_reflex_agent((A, "Dirty")))
     print(model_based_reflex_agent((A, "Clean")))
     print(model_based_reflex_agent((B, "Clean")))
+run()
